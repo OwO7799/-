@@ -67,7 +67,7 @@ local Hopped = false
 local TimeLeft = 30
 local TurnBack = 4
 local CheckTick = tick()
-local message = getfenv().Message or ":("
+local message = getfenv().Message or "<3-----------<"
 local PlayerLocked
 local Back = true
 
